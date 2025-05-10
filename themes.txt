@@ -1,0 +1,60 @@
+__label__GuidanceandMercy Guidance and Mercy
+__label__GratitudeandWorship Gratitude and Worship
+__label__HypocrisyandNeglect Hypocrisy and Neglect
+__label__AbundanceandGratitude Abundance and Gratitude
+__label__DeclarationofFaith Declaration of Faith
+__label__VictoryandRepentance Victory and Repentance
+__label__CondemnationofAbuLahab Condemnation of Abu Lahab
+__label__OnenessofAllah Oneness of Allah
+__label__SeekingProtection Seeking Protection
+__label__RefugefromEvil Refuge from Evil
+__label__AllahMercy Allah Mercy
+__label__PraisetoAllah Praise to Allah
+__label__MercyofAllah Mercy of Allah
+__label__DayofJudgment Day of Judgment
+__label__WorshipandSeekingHelp Worship and Seeking Help
+__label__SeekingGuidance Seeking Guidance
+__label__PathofRighteousness Path of Righteousness
+__label__ProtectionofQuraysh Protection of Quraysh
+__label__BlessingofTrade Blessing of Trade
+__label__CommandtoWorship Command to Worship
+__label__ProvisionandSecurity Provision and Security
+__label__DenialofJudgment Denial of Judgment
+__label__HarshnesstoOrphans Harshness to Orphans
+__label__NeglectoftheNeedy Neglect of the Needy
+__label__FalseWorship False Worship
+__label__NeglectofPrayer Neglect of Prayer
+__label__ShowingOff Showing Off
+__label__GreedandSelfishness Greed and Selfishness
+__label__GiftofKawthar Gift of Kawthar
+__label__PrayerandSacrifice Prayer and Sacrifice
+__label__VictoryOverOpponents Victory Over Opponents
+__label__RejectionofDisbelief Rejection of Disbelief
+__label__DistinctioninWorship Distinction in Worship
+__label__DistinctioninFaith Distinction in Faith
+__label__CommitmenttoFaith Commitment to Faith
+__label__FinalSeparation Final Separation
+__label__MutualIndependence Mutual Independence
+__label__HelpfromAllah Help from Allah
+__label__PeopleEmbracingFaith People Embracing Faith
+__label__GratitudeandRepentance Gratitude and Repentance
+__label__DoomofAbuLahab Doom of Abu Lahab
+__label__LossofWealth Loss of Wealth
+__label__PunishmentinHell Punishment in Hell
+__label__ComplicityofWife Complicity of Wife
+__label__SignofHumiliation Sign of Humiliation
+__label__OnenessofAllah Oneness of Allah
+__label__Self-SufficiencyofAllah Self-Sufficiency of Allah
+__label__EternalityofAllah Eternality of Allah
+__label__UniquenessofAllah Uniqueness of Allah
+__label__SeekingRefugeinAllah Seeking Refuge in Allah
+__label__ProtectionfromCreation Protection from Creation
+__label__ProtectionfromDarkness Protection from Darkness
+__label__ProtectionfromWitchcraft Protection from Witchcraft
+__label__ProtectionfromEnvy Protection from Envy
+__label__SeekingRefugeinAllah Seeking Refuge in Allah
+__label__ProtectionthroughSovereignty Protection through Sovereignty
+__label__ProtectionthroughDivinity Protection through Divinity
+__label__ProtectionfromWhispers Protection from Whispers
+__label__ProtectionfromInfluence Protection from Influence
+__label__ProtectionfromHiddenEvil Protection from Hidden Evil
